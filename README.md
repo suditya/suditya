@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **Awesome ideas which matches my passion**
+- 👯 I’m looking to collaborate on **Awesome ideas which match's my passion**
 
 - 🤝 I’m looking for help with **React.js**
 
