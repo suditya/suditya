@@ -1,36 +1,38 @@
-### Hi there 👋
+### Hi there! 👋
 
+I'm Suditya, a passionate full-stack developer with expertise in MERN and MEVN stacks. I enjoy building web applications using React.js, Node.js, Express, and MongoDB.
 
-<h1 align="center">Hi 👋, I'm Suditya</h1>
-<h3 align="center">A passionate frontend(React.js) developer from India</h3>
+- 🔭 I’m currently working on frontend and backend development projects using React.js and Node.js.
 
-- 🔭 I’m currently working on **"Frontend WebDevelopnment(React developer)**
+- 🌱 I’m constantly learning new techniques and libraries to enhance my skills in full-stack development.
 
-- 🌱 I’m currently learning **React.js**
+- 👯 I’m open to collaborating on exciting projects that utilize the MERN or MEVN stacks.
 
-- 👯 I’m looking to collaborate on **Awesome ideas which match's my passion**
+- 🤝 I’m looking for opportunities to contribute to projects and gain experience in full-stack development.
 
-- 🤝 I’m looking for help with **React.js**
+- 💬 Ask me about web development (frontend and backend), data structures, algorithms, and C++.
 
-- 👨‍💻 All of my projects are available at [suditya.github.io](suditya.github.io)
+- 📫 You can reach me at [guptasuditya@gmail.com](mailto:guptasuditya@gmail.com).
 
-- 💬 Ask me about **WebDevelopnment (frontend) ,Data-structures , Algorithms , c++**
+- 📄 Check out my experiences and connect with me on [LinkedIn](https://www.linkedin.com/in/sudityagupta/).
 
-- 📫 How to reach me **guptasuditya@gamil.com**
+- ⚡ Fun fact: I believe in continuous learning and staying up-to-date with the latest technologies.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sudityagupta/](https://www.linkedin.com/in/sudityagupta/)
+### Connect with me:
 
-- ⚡ Fun fact **I think all are best .**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sudityagupta-blue)](https://linkedin.com/in/sudityagupta)
+[![Instagram](https://img.shields.io/badge/Instagram-guptasuditya-red)](https://instagram.com/guptasuditya)
+[![Medium](https://img.shields.io/badge/Medium-@guptasuditya-green)](https://medium.com/@guptasuditya)
+[![Codechef](https://img.shields.io/badge/Codechef-suditya22coder-brown)](https://www.codechef.com/users/suditya22coder)
+[![HackerRank](https://img.shields.io/badge/HackerRank-guptasuditya-yellow)](https://www.hackerrank.com/guptasuditya)
+[![LeetCode](https://img.shields.io/badge/LeetCode-guptasuditya-lightgrey)](https://www.leetcode.com/guptasuditya)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suditya gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suditya gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/guptasuditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guptasuditya" height="30" width="40" /></a>
-<a href="https://medium.com/@guptasuditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@guptasuditya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/suditya22coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suditya22coder" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/guptasuditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="guptasuditya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/guptasuditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="guptasuditya" height="30" width="40" /></a>
-</p>
+### Languages and Tools:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
