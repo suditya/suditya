@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
-I'm Suditya, a passionate full-stack developer with expertise in MERN and MEVN stacks. I enjoy building web applications using React.js, Node.js, Express, and MongoDB.
+I'm Suditya, a passionate full-stack developer with expertise in MERN and MEVN stacks. I enjoy building web applications using React.js, Vue.js, Node.js, Express, and MongoDB.
 
-- 🔭 I’m currently working on frontend and backend development projects using React.js and Node.js.
+- 🔭 I’m currently working on frontend and backend development projects using React.js, Vue.js and Node.js.
 
 - 🌱 I’m constantly learning new techniques and libraries to enhance my skills in full-stack development.
 
