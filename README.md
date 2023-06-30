@@ -15,6 +15,8 @@ I'm Suditya, a passionate full-stack developer with expertise in MERN and MEVN s
 - 📫 You can reach me at [guptasuditya@gmail.com](mailto:guptasuditya@gmail.com).
 
 - 📄 Check out my experiences and connect with me on [LinkedIn](https://www.linkedin.com/in/sudityagupta/).
+- 
+- 📃 Here's a [Link](https://drive.google.com/file/d/1RkxRy7DAgUek83BHiFMpTU2iO2wKQGMX/view?usp=sharing) to my resume: Resume
 
 - ⚡ Fun fact: I believe in continuous learning and staying up-to-date with the latest technologies.
 
