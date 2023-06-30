@@ -23,11 +23,13 @@ I'm Suditya, a passionate full-stack developer with expertise in MERN and MEVN s
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sudityagupta-blue)](https://linkedin.com/in/sudityagupta)
-[![Instagram](https://img.shields.io/badge/Instagram-guptasuditya-red)](https://instagram.com/guptasuditya)
+[![LeetCode](https://img.shields.io/badge/LeetCode-guptasuditya-lightgrey)](https://www.leetcode.com/guptasuditya)
+[![HackerRank](https://img.shields.io/badge/HackerRank-guptasuditya-yellow)](https://www.hackerrank.com/guptasuditya)
 [![Medium](https://img.shields.io/badge/Medium-@guptasuditya-green)](https://medium.com/@guptasuditya)
 [![Codechef](https://img.shields.io/badge/Codechef-suditya22coder-brown)](https://www.codechef.com/users/suditya22coder)
-[![HackerRank](https://img.shields.io/badge/HackerRank-guptasuditya-yellow)](https://www.hackerrank.com/guptasuditya)
-[![LeetCode](https://img.shields.io/badge/LeetCode-guptasuditya-lightgrey)](https://www.leetcode.com/guptasuditya)
+[![Instagram](https://img.shields.io/badge/Instagram-guptasuditya-red)](https://instagram.com/guptasuditya)
+
+
 
 ### Languages and Tools:
 
