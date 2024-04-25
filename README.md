@@ -16,7 +16,7 @@ I'm Suditya, a passionate full-stack developer with expertise in MERN and MEVN s
 
 - 📄 Check out my experiences and connect with me on [LinkedIn](https://www.linkedin.com/in/sudityagupta/).
  
-- 📃 Here's a [Link](https://drive.google.com/file/d/1RkxRy7DAgUek83BHiFMpTU2iO2wKQGMX/view?usp=sharing) to my resume: Resume
+- 📃 Here's a [Link](https://drive.google.com/file/d/1BCapCGHihVzFm3M0w7YI2HNCc4OHwg9N/view) to my resume: Resume
 
 - ⚡ Fun fact: I believe in continuous learning and staying up-to-date with the latest technologies.
 
